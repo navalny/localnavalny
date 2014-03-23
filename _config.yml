@@ -1,0 +1,17 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        /:title.html
+
+# Setup
+title:            Локальный Навальный
+tagline:          'Зеркало ЖЖ Алексея Навального'
+description:      'Зеркало блога Алексея Навального. Локальное. Подробнее на <a href="http://navalny.github.io">navalny.github.io</a>.'
+url:              http://localhost:4000
+
+paginate:         5
+
+github:
+  repo:           https://github.com/navalny/localnavalny
